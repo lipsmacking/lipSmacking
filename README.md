@@ -7,8 +7,7 @@ Software Engineering 1: Restaurant Automation project by Group 2
   username: cust password: cust
   2. Waiter Application:
   http://ec2-52-91-34-71.compute-1.amazonaws.com/waiter/#/
-  username: waiter  
-  password: waiter
+  username: waiter  password: waiter
   3. Manager Application:
   http://ec2-52-91-34-71.compute-1.amazonaws.com/manager/#/
   username: man
