@@ -6,13 +6,13 @@ Software Engineering 1: Restaurant Automation project by Group 2
    http://ec2-52-91-34-71.compute-1.amazonaws.com/lipsmacking/  <br>
   
   Login credentials:<br>
-  <b>Customer:<br>
+  <b>Customer:</b><br>
   username: cust <br>
   password: cust <br>
-    <b>Chef:<br>
+    <b>Chef:</b><br>
   username: chef <br>
   password: chef <br>
-  <b>Waiters: <br>
+  <b>Waiters: </b><br>
    username: waiter <br>
   password: waiter <br>
   username: waiter1 <br>
@@ -21,7 +21,7 @@ Software Engineering 1: Restaurant Automation project by Group 2
   password: waiter3 <br>
    username: waiter4 <br>
   password: waiter <br>
-  <b>Manager:
+  <b>Manager:</b><br>
     username: man <br>
   password: man <br>
   
