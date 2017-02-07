@@ -1,5 +1,12 @@
 # lipSmacking
-Software Engineering 1: Restaurant Automation project by Group 2
+Software Engineering 1: Restaurant Automation project by Group 2 <br>
+Team members:<br>
+<ul>Mahesh Hariharasubramanian 
+<ul>Shruthi Ravishankar 
+<ul> Kamalini Chakravorty 
+<ul> Chaitanya Kulkarni 
+<ul> Alphy Jose
+<ul> Peiyao Yang
 
   Below are the links to the application hosted on Amazon Web Services: <br>
    LipSmacking Application:<br>
